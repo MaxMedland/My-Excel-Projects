@@ -1,6 +1,3 @@
-https://github.com/MaxMedland/Data-Technitian-Bootcamp/tree/main/Excel
-
-
 # 📊 Excel Data Analysis Project — Data Technician Bootcamp
 
 This repository contains my completed Excel project from Week 1 of the **Data Technician Bootcamp**, where I worked with multiple retail and sales datasets to build core analytical skills. The exercises focused on transforming raw data into meaningful insights using formulas, PivotTables, conditional logic, and visualisations.
