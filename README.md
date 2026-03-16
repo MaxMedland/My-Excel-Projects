@@ -1,23 +1,4 @@
-# 📊 Excel Data Analysis Project — Data Technician Bootcamp
-
-This repository contains my completed Excel project from Week 1 of the **Data Technician Bootcamp**, where I worked with multiple retail and sales datasets to build core analytical skills. The exercises focused on transforming raw data into meaningful insights using formulas, PivotTables, conditional logic, and visualisations.
-
----
-
-## 🚀 Project Overview
-
-Across several structured tasks, I analysed retail sales, bike sales, and regional product performance. The work included:
-
-- Cleaning and preparing datasets  
-- Applying formulas to calculate commissions and averages  
-- Sorting and filtering data to uncover patterns  
-- Building PivotTables to summarise multi‑dimensional information  
-- Categorising data using conditional logic  
-- Creating charts to visualise trends and insights  
-
-These tasks helped develop practical Excel proficiency essential for data analysis roles.
-
----
+# 📊 Excel Data Analysis 
 
 ## 🧠 Key Skills Demonstrated
 
