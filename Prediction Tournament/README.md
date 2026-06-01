@@ -28,4 +28,4 @@ This project provides a structured framework for running a prediction tournament
 
 The spreadsheet is designed to be user-friendly, allowing the organiser to input actual results as the tournament progresses, which then automatically updates the leaderboard and participant standings.
 
-*Work in progress... Finalising layout, rules, and instructions for use*
+*Work in progress... Finalising main file and instructions for use*
