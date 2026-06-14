@@ -6,6 +6,14 @@ A comprehensive Excel-based tool for managing and tracking predictions for inter
 
 This project provides a structured framework for running a prediction tournament among a group of participants for the 2026 FIFA World Cup. It tracks everything from individual match scores to complex tournament outcomes, providing a dynamic way to engage with international finals.
 
+## 📂 Repository Structure
+
+```text
+├── README.md                           # Project documentation
+├── 2026_fifa_wc.xlsx                   # User-facing input sheet for participant predictions
+└── 2026_fifa_wc_master.xlsx            # Administration engine, scoring logic, and master leaderboard
+```
+
 ## ✨ Key Features
 
 * **🏟️ Full Tournament Tracking:** Predict scores for every match, group stage winners across the new expanding format (Groups A through L), and the knockout brackets from the Round of 32 all the way through to the final.
